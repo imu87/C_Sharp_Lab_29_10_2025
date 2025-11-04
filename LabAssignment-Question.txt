@@ -1,0 +1,31 @@
+Lab Assignment Questions
+
+If Statement Practice:
+Write a program that asks for a user’s age and prints whether they are a minor, adult, or senior.
+
+Switch Statement:
+Create a program using switch to display the name of a day based on a number (1–7).
+
+Nested If Statements:
+Write a program that checks whether a number is positive, negative, or zero, and whether it’s even or odd.
+
+For Loop:
+Print all even numbers between 1 and 50 using a for loop.
+
+While Loop with Sentinel Value:
+Continuously ask the user to enter a word until they type "exit". Display the total number of words entered.
+
+Do…While Loop:
+Create a menu-driven calculator that keeps running until the user selects “Quit”.
+
+Foreach Loop:
+Given an array of names, print each name in uppercase using a foreach loop.
+
+Nested Loop (Pattern Generation):
+Print a pyramid of stars (*) using nested loops.
+
+Value vs Reference Type:
+Demonstrate the difference between passing a value type and reference type to a method by modifying both inside the method.
+
+Nullable and Dynamic Types:
+Write a program that uses nullable types and dynamic types to demonstrate runtime type checking and null-coalescing (??) operator.
